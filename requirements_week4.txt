@@ -1,3 +1,14 @@
 flask
 opensearch-py
-fastText
+requests
+ipython
+urljoin
+xgboost
+pandas
+numba
+numexpr
+sklearn
+graphviz
+matplotlib
+fasttext
+nltk
